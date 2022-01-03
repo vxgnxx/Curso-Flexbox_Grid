@@ -1,4 +1,4 @@
-# Guia de estilos
+<!--# Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
 
@@ -100,4 +100,4 @@ Largura máxima do conteúdo principal: `1120px`
 
 Largura máxima de um cartão desktop: `256px`
 
-Altura mínima de um cartão: `320px`
+Altura mínima de um cartão: `320px`-->
